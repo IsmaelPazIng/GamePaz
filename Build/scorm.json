@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "actividad1Fuego",
+"productVersion": "0.1",
+"dataUrl": "scorm.data.unityweb",
+"wasmCodeUrl": "scorm.wasm.code.unityweb",
+"wasmFrameworkUrl": "scorm.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": true,
+"multithreading": false,
+"unityVersion": "2019.1.12f1"
+}
